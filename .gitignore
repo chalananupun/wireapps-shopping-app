@@ -1,0 +1,59 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+.expo/
+.expo-shared/
+dist/
+build/
+*.log
+
+# macOS
+.DS_Store
+
+# Android
+.android/
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+*.hprof
+*.swp
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/build/
+*.xcworkspace
+*.xcodeproj
+*.xcuserstate
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Expo
+.expo/
+
+# dotenv environment variables file
+.env
+
+# React Native Debugger
+react-native-debugger/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary directories
+tmp/
+temp/
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
