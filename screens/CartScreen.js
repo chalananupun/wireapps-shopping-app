@@ -136,7 +136,7 @@ const styles = StyleSheet.create({
   totalValue: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: 'green',  // Highlight the total values with a different color (optional)
+    color: 'green', 
   },
 });
 
